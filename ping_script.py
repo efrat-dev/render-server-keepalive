@@ -3,7 +3,6 @@ import logging
 
 def ping_endpoints():
     endpoints = [
-        "https://creatingai.onrender.com",
         "https://creating-ai-backend.onrender.com"
     ]
 
