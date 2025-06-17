@@ -3,7 +3,8 @@ import logging
 
 def ping_endpoints():
     endpoints = [
-        "https://creating-ai-backend.onrender.com"
+        "https://creating-ai-backend.onrender.com",
+        "https://education-for-all-backend-ygdd.onrender.com"
     ]
 
     for url in endpoints:
